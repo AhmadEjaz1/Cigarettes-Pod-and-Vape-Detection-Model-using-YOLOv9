@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AhmadEjaz1
+- 👋 Hi, I’m @AhmadEjaz
 - 👀 I’m interested in Machine Learning,Deep Learning And Artifical Intellegence
 - 🌱 I’m currently learning Machine Learnig and Deep Learning
-- 💞️ I’m looking to collaborate on Machine Learning Projects as well sql projects
+- 💞️ I’m looking to collaborate on Machine Learning Projects as well as sql projects
 - 📫 How to reach me ahmadejaz7793@gmail.com
 
 <!---
