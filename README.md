@@ -1,4 +1,4 @@
-# Human-Emotion-Detection-Model-using-YOLOv9
+# Cigarettes-Pod-and-Vape-Detection-Model-using-YOLOv9
 The Cigarette, Pod, and Vape Detection uses machine learning, and computer vision to ensure efficient and accurate detection of 
 smoking-related products in dynamic environments such as schools, public spaces, and restricted areas. This system integrates highresolution camera-based detection, enabling real-time identification of cigarettes, pods, and vapes through advanced image recognition algorithms. Achieved a detection accuracy of 94%, ensuring efficient and reliable identification of prohibited items in dynamic environments.
 
@@ -28,7 +28,6 @@ Then create the zip of the folder
 Upload the data to gdrive and the use google collab for Model Training
 Set The Notebook settings to T4 GPU
 Then follow the code file for Training of Model
-Thanks
 
 # Model Results
 ![val_batch2_pred](https://github.com/user-attachments/assets/324c854e-7fd5-4c72-836c-9ff8f4db26b8)
